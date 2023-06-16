@@ -1,5 +1,6 @@
 # Conformal-mapping
-This repository contains the coefficients of the conformal mapping used in my research paper.
+This repository contains the coefficients of the conformal mappings used in my research paper.
+
 L=100, M=60.
 
 Section 4.xlsx contains the mappings used in Section 4.
