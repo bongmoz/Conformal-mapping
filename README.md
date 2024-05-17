@@ -14,4 +14,4 @@ Each column corresponds to each scenario.
 For the mappings of the ground, each row corresponds to $C_{-100}$ to $C_{1}$.
 For the mappings of the initial liner, the isolation interlayer and the secondary liner, each row corresponds to $C_{-60}$ to $C_{60}$.
 
-If you have any inquiries or happen to identify any errors in the file, please don't hesitate to contact me via email at chengong@tongji.edu.cn.
+If you have any inquiries or happen to identify any typos in the file, please don't hesitate to contact me via email at chengong@tongji.edu.cn.
